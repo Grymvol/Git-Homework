@@ -1,5 +1,6 @@
 .container {
   background-color: gray;
+  overflow: auto;
 }
 body {
   background-color: black;
